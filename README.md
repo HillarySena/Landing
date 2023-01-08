@@ -1,6 +1,6 @@
 # Oi! Seja Bem-vindo a minha lading-page!
 
-Bom, a Landing page costuma ser uma página web de entrada com todas as inforfações e detalhes de interface que passa o intuito do site.
+Bom, uma Home Pag costuma ser uma página web de entrada com todas as inforfações e detalhes de interface que passa o intuito do site.
 Eu mudei um pouco isso, por mais que não tenha sido algo muito diferente.
 Tinha um projeto em mente e acabei mudando ele totalmente para uma apresentação no meu colégio que é voltado em tecnologia (sendo mais direta, em robótica).
 
